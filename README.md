@@ -1,6 +1,6 @@
 # Recipes-Intro-To-MVC-Architecture
 
-In class example of using the MVC (model-view-controller) architecture. In this lesson we created a recipes app. The model is a Recipe struct, we have a one view in our application pictured below and a single view controller class that manages the view and the model data. 
+In class example of using the MVC (model-view-controller) architecture. In this lesson we created a recipes app. The model is a Recipe struct, we have one view in our application pictured below and a single view controller class that manages the view and the model data. 
 
 ## Model 
 
