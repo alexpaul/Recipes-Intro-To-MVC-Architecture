@@ -145,6 +145,6 @@ class ViewController: UIViewController {
   }
 }
 ```
-</detials> 
+</details>     
 
 ## [Lecture Video](https://youtu.be/mP1VV5uNJkE)  
